@@ -35,7 +35,7 @@ Or open the notebooks files in your favorite environement
 ## Important Considerations
 Large language models like (LLM) can sometimes generate incorrect, misleading, or even harmful text.
 It is crucial to implement safeguards and carefully monitor the model's output, especially in sensitive applications.
-An example implementation of this kind of safeguard are illustrated in the section 2.8 of this content, using Perspective API.  
+Find an implementation example of this kind of safeguard illustrated in the section 2.8 of this content, using Perspective API.  
 By using this repository, you acknowledge and agree to the terms of this disclaimer.
 
 ## Learn more

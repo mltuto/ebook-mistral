@@ -4,6 +4,7 @@ It provides the code examples and instructions needed to replicate the concepts 
 
 ## About Mistral LLM
 [https://mistral.ai](https://mistral.ai/)
+
 Join the discord server : [https://discord.gg/mistralai](https://discord.gg/mistralai)
 
 ## About Colab
